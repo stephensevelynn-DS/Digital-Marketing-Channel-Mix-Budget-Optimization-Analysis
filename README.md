@@ -77,4 +77,5 @@ Marketing teams routinely allocate budget based on historical habit rather than 
 In my work as a Fundraising Analyst I regularly advise clients on channel spend decisions — often challenging the instinct to cut high-performing channels like direct mail in favor of digital. The same principle applies here: budget should follow performance data, not assumptions. This project builds the analytical framework to make that case with numbers.
  
 ---
-*Project by Evelynn Stephens |https://www.linkedin.com/in/evelynn-stephens-datascience/| stephensevelynn@gmail.com*
+*Project by Evelynn Stephens | [LinkedIn](https://www.linkedin.com/in/evelynn-stephens-datascience/) | stephensevelynn@gmail.com*
+
