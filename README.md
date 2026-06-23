@@ -1,5 +1,5 @@
 # Digital-Marketing-Channel-Mix-Budget-Optimization-Analysis
-
+![Project Thumbnail](https://github.com/stephensevelynn-DS/Digital-Marketing-Channel-Mix-Budget-Optimization-Analysis/blob/main/digital_thumbnail%20(1).jpg?raw=true)
 ## Business Problem
 Marketing teams routinely allocate budget based on historical habit rather than performance data — continuing to fund underperforming channels while underfunding those delivering the strongest returns. This project analyzes digital marketing spend across four channel categories to answer one critical question:
  
